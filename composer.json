@@ -1,6 +1,6 @@
 {
     "name": "cartalyst/sentinel-lumen",
-    "description": "Lumen 5.1 integration for the Cartalyst 2.0 package.",
+    "description": "Lumen 5.4 integration for the Cartalyst 2.0 package.",
     "keywords": [
         "php",
         "cartalyst",
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "laravel/lumen-framework": "5.1.*||5.2.*",
+        "laravel/lumen-framework": "5.1.*||5.2.*||5.3.*||5.4.*",
         "cartalyst/sentinel": "~2.0"
     },
     "require-dev": {
